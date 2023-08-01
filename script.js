@@ -130,6 +130,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "PIÑALBER JHAMILLE TAGACA",
         "PULIDO ANDREA FAYE",
         "QUEDDENG MARK YHACINTH",
+        "RABAGO, ROSELLE ARGUEL",
         "RABOR, JOHN MYKO RECCION",
         "RACRAQUIN, JHESTER BALAGAN",
         "RAFANAN, OLIVER T.",
