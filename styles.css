@@ -17,16 +17,16 @@ header {
     text-align: center;
 }
 
+.school-logo,
+.department-logo {
+    height: 80px;
+    margin-right: 20px; 
+}
+
 .logo-container {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.school-logo,
-.department-logo {
-    height: 50px;
-    margin-right: 10px;
 }
 
 h1 {
