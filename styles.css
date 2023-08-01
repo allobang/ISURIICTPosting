@@ -6,7 +6,7 @@ body {
     color: #333;
 }
 
-header {
+.header {
     position: fixed;
     top: 0;
     left: 0;
@@ -20,7 +20,7 @@ header {
 .school-logo,
 .department-logo {
     height: 80px;
-    margin-right: 20px; 
+    margin-right: 20px;
 }
 
 .logo-container {
@@ -31,10 +31,18 @@ header {
 
 h1 {
     margin: 0;
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide overflowing text */
+    text-overflow: ellipsis; /* Display ... when text overflows */
+    max-width: calc(100% - 200px); /* Adjust the max-width based on logo sizes */
 }
 
-main {
-    padding: 80px 20px 20px;
+.main-content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 120px;
+    flex-grow: 1;
 }
 
 .students-list {
@@ -60,5 +68,10 @@ main {
 @media only screen and (max-width: 768px) {
     h1 {
         font-size: 24px;
+        max-width: 100%; /* Remove max-width on smaller screens */
+    }
+
+    .main-content {
+        margin-top: 100px;
     }
 }
