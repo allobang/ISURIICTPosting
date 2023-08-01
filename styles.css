@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.school-logo,
+.department-logo {
+    height: 50px;
+    margin-right: 10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 80px 20px 20px;
+}
+
+.students-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.students-list li {
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.students-list li:last-child {
+    border-bottom: none;
+}
+
+.students-list li:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+    h1 {
+        font-size: 24px;
+    }
+}
