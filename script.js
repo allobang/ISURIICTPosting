@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "DUCUSIN ROGIE CHRISTIAN",
         "DULAY SHIREEN JOY S.",
         "ELARDE, JHON WEYN",
-        "ERFELUA APRILYN",
+        "ERFELUA, LEAH",
         "ESPERO, PRINCESS ERICKA JEAN DOMINGO",
         "ESQUIVEL KERVIE A.",
         "ESTEBAN, FELIX JOSE",
