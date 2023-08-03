@@ -164,7 +164,6 @@ document.addEventListener("DOMContentLoaded", function() {
         "TADENA LOU ANGELIC M.",
         "TAGALISMA ROCKY DEL ROSARIO",
         "TOLENTINO, CHRISTINE M.",
-        "TOLENTINO, CHRISTINE M.",
         "TORRE, LOVELYN GRACE",
         "VALDEZ HONEYLY OBINA",
         "VELASCO JANIBAL",
