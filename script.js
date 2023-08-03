@@ -169,6 +169,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "VALDEZ HONEYLY OBINA",
         "VELASCO JANIBAL",
         "VIDAL, ALTHEA MAE",
+        "VIDAL, DOMINIQUE",
         "VILLANUEVA KYLE VINCENT OCTAVIO",
         "VILLANUEVA, PRINCES JHENY FELIPE",
         "YABUT, SARAH",
