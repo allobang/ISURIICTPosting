@@ -122,6 +122,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "MANUEL, JUSTINE CARL TADEO",
         "MARCIANO, ROSIE GRACE PABRO",
         "MARTIN, ADRIAN LUKE AK MELCHOR",
+        "MIGUEL JOHN ASHLEY",
         "MINA, JENNY ANN BATTUG",
         "MONTILLA, SHIELA MAE F.",
         "NATIVIDAD PRECIOUS YRA",
