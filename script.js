@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "GAMIT MARIE CACUYONG",
         "GANIR, ALDRIN PAUL G.",
         "GANNABAN JOHN PAUL M.",
+        "GUADIZ, KAYSERI P."
         "GUITTU NATALIE V.",
         "GUMARO, HEART MAE",
         "GUZMAN CHRISTIAN JAY",
